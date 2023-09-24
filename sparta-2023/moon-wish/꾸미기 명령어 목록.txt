@@ -1,3 +1,5 @@
+학습목표 노션 주소: https://teamsparta.notion.site/9ecad47367fd4f82ac6a3610d8806f45
+
 wrap : 큰 화면의 뼈대 전체를 감싸고 가운데로 정렬하기
 item-center : 내부 뼈대의 위치를 가운데로 세로 정렬하기
 item-between : 내부 뼈대의 위치를 양끝으로 세로 정렬하기
